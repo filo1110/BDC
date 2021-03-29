@@ -30,5 +30,6 @@ public class G05HW1 {
         System.out.println("Number of documents = " + numdocs);
         JavaPairRDD<String, Long> count;
         Random randomGenerator = new Random();
+        //ciao
     }
 }
